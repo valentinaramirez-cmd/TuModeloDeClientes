@@ -1,0 +1,28 @@
+{
+    "productos": [
+        {
+            "id": 2,
+            "nombre": "Juego de sillas",
+            "precio": 500000,
+            "stock": 25,
+            "marca": "miliffi",
+            "categoria": "Producto Hogar",
+            "modelo": "nuevas",
+            "uso": "interior",
+            "especificacion": "material algarrobo"
+        },
+        {
+            "id": 1,
+            "nombre": "MOTOG10",
+            "precio": 250000,
+            "stock": 10,
+            "marca": "motorola",
+            "categoria": "Producto Electronico",
+            "tipo": "celular",
+            "modelo": "g",
+            "almacenamiento": "128gb",
+            "tactil": "Es tactil? si",
+            "cargador": "Contiene cargador? si"
+        }
+    ]
+}
